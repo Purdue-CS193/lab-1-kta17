@@ -1,3 +1,8 @@
+#Kevin Tian's first CS193 Lab
+###Somethings I like about CS193
+-Their lectures are informative
+-The teachers are more relatable, because they are younger
+-The teachers make class more intersting which in turn makes class more tolerable
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
